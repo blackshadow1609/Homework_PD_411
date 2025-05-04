@@ -1,0 +1,8 @@
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\bin\Debug\InputAndStringOperations.exe.config
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\bin\Debug\InputAndStringOperations.exe
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\bin\Debug\InputAndStringOperations.pdb
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\obj\Debug\InputAndStringOperations.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\obj\Debug\InputAndStringOperations.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\obj\Debug\InputAndStringOperations.exe
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\obj\Debug\InputAndStringOperations.pdb
+C:\Users\wwwbl\source\repos\Introduction\InputAndStringOperations\obj\Debug\InputAndStringOperations.exe.config
