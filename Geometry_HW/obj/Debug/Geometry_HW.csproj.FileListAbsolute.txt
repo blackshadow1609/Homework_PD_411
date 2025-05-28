@@ -1,0 +1,8 @@
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\bin\Debug\Geometry_HW.exe.config
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\bin\Debug\Geometry_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\bin\Debug\Geometry_HW.pdb
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\obj\Debug\Geometry_HW.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\obj\Debug\Geometry_HW.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\obj\Debug\Geometry_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\obj\Debug\Geometry_HW.pdb
+C:\Users\wwwbl\source\repos\IntroDuction\Geometry_HW\obj\Debug\Geometry_HW.exe.config
