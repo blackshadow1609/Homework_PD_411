@@ -1,0 +1,7 @@
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\bin\Debug\Chessboard_1_HW.exe.config
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\bin\Debug\Chessboard_1_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\bin\Debug\Chessboard_1_HW.pdb
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\obj\Debug\Chessboard_1_HW.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\obj\Debug\Chessboard_1_HW.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\obj\Debug\Chessboard_1_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Chessboard_1_HW\obj\Debug\Chessboard_1_HW.pdb
