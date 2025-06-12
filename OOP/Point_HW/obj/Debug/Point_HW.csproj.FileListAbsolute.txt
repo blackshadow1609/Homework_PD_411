@@ -1,0 +1,7 @@
+C:\Users\wwwbl\source\repos\OOP\Point_HW\bin\Debug\Point_HW.exe.config
+C:\Users\wwwbl\source\repos\OOP\Point_HW\bin\Debug\Point_HW.exe
+C:\Users\wwwbl\source\repos\OOP\Point_HW\bin\Debug\Point_HW.pdb
+C:\Users\wwwbl\source\repos\OOP\Point_HW\obj\Debug\Point_HW.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\OOP\Point_HW\obj\Debug\Point_HW.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\OOP\Point_HW\obj\Debug\Point_HW.exe
+C:\Users\wwwbl\source\repos\OOP\Point_HW\obj\Debug\Point_HW.pdb
