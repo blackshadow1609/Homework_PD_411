@@ -1,0 +1,8 @@
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\bin\Debug\Calc_HW.exe.config
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\bin\Debug\Calc_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\bin\Debug\Calc_HW.pdb
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\obj\Debug\Calc_HW.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\obj\Debug\Calc_HW.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\obj\Debug\Calc_HW.exe
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\obj\Debug\Calc_HW.pdb
+C:\Users\wwwbl\source\repos\IntroDuction\Calc_HW\obj\Debug\Calc_HW.exe.config
