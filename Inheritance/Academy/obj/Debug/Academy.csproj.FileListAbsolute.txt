@@ -1,0 +1,8 @@
+C:\Users\wwwbl\source\repos\Inheritance\Academy\bin\Debug\Academy.exe.config
+C:\Users\wwwbl\source\repos\Inheritance\Academy\bin\Debug\Academy.exe
+C:\Users\wwwbl\source\repos\Inheritance\Academy\bin\Debug\Academy.pdb
+C:\Users\wwwbl\source\repos\Inheritance\Academy\obj\Debug\Academy.csproj.AssemblyReference.cache
+C:\Users\wwwbl\source\repos\Inheritance\Academy\obj\Debug\Academy.csproj.CoreCompileInputs.cache
+C:\Users\wwwbl\source\repos\Inheritance\Academy\obj\Debug\Academy.exe
+C:\Users\wwwbl\source\repos\Inheritance\Academy\obj\Debug\Academy.pdb
+C:\Users\wwwbl\source\repos\Inheritance\Academy\obj\Debug\Academy.exe.config
